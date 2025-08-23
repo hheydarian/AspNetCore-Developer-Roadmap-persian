@@ -127,4 +127,3 @@
 1️⃣2️⃣ **ارتباطات بلادرنگ (Real-Time Communication)**  
 🔹 [SignalR](https://docs.microsoft.com/aspnet/core/signalr)  
 🔹 [وب‌سوکت‌ها (WebSockets)](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/websockets)  
-
