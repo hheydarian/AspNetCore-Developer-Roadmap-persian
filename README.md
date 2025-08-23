@@ -87,4 +87,44 @@
     🔸 [CosmosDB](https://docs.microsoft.com/azure/cosmos-db)  
     🔸 [DynamoDB](https://aws.amazon.com/dynamodb)  
 
-    
+9️⃣ **کشینگ (Caching)**  
+🔹 [کش در حافظه (Memory Cache)](https://docs.microsoft.com/aspnet/core/performance/caching/memory)  
+🔹 [کش توزیع‌شده (Distributed Cache)](https://docs.microsoft.com/aspnet/core/performance/caching/distributed)  
+  🔸 [Redis](https://redis.io/)  
+    🔸 [StackExchange.Redis](https://stackexchange.github.io/StackExchange.Redis)  
+    🔸 [EasyCaching](https://github.com/dotnetcore/EasyCaching)  
+  🔸 [Memcached](https://memcached.org)  
+🔹 سطح اپلیکیشن (Application-Level)  
+  🔸 کش پاسخ (Response Caching)  
+    🔸 [Built in](https://learn.microsoft.com/en-us/aspnet/core/performance/caching/response)  
+    🔸 [Marvin.Cache.Headers](https://github.com/KevinDockx/HttpCacheHeaders)  
+  🔸 [کش خروجی (Output Caching)](https://learn.microsoft.com/en-us/aspnet/core/performance/caching/output?source=recommendations)  
+  🔸 [کش سطح دوم EF (Entity Framework 2nd Level Cache)](https://github.com/VahidN/EFCoreSecondLevelCacheInterceptor)  
+
+1️⃣0️⃣ **فریم‌ورک‌های لاگ (Log Frameworks)**  
+🔹 [Serilog](https://github.com/serilog/serilog)  
+🔹 [NLog](https://github.com/NLog/NLog)  
+🔹 آموزش‌ها 📚  
+  🔸 [از صفر تا قهرمان: Logging در .NET](https://dometrain.com/course/from-zero-to-hero-logging-in-dotnet/?affcode=1115529_alq6yoqt)  
+
+1️⃣1️⃣ **کلاینت‌ها و ارتباطات API (API Clients & Communications)**  
+🔹 REST  
+  🔸 [Gridify](https://github.com/alirezanet/Gridify)  
+  🔸 [OData](https://learn.microsoft.com/en-us/odata/webapi/first-odata-api)  
+  🔸 الگوی REPR (REPR Pattern)  
+    🔸 [Minimal APIs](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis/overview)  
+    🔸 [Ardalis.Endpoints](https://github.com/ardalis/ApiEndpoints)  
+    🔸 [Fast Endpoints](https://github.com/FastEndpoints/FastEndpoints)  
+🔹 [gRPC](https://docs.microsoft.com/en-us/aspnet/core/grpc)  
+🔹 GraphQL  
+  🔸 [HotChocolate](https://github.com/ChilliCream/hotchocolate)  
+  🔸 [GraphQL-dotnet](https://github.com/graphql-dotnet/graphql-dotnet)  
+🔹 آموزش‌ها 📚  
+  🔸 [از صفر تا قهرمان: REST API در .NET](https://dometrain.com/course/from-zero-to-hero-rest-apis-in-asp-net-core/?affcode=1115529_alq6yoqt)  
+  🔸 [از صفر تا قهرمان: Minimal API در .NET با #C](https://dometrain.com/course/from-zero-to-hero-minimal-apis-in-net-with-c/?affcode=1115529_alq6yoqt)  
+  🔸 [از صفر تا قهرمان: gRPC در .NET](https://dometrain.com/course/from-zero-to-hero-grpc-in-dotnet/?affcode=1115529_alq6yoqt)  
+
+1️⃣2️⃣ **ارتباطات بلادرنگ (Real-Time Communication)**  
+🔹 [SignalR](https://docs.microsoft.com/aspnet/core/signalr)  
+🔹 [وب‌سوکت‌ها (WebSockets)](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/websockets)  
+
