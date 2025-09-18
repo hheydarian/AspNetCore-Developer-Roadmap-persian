@@ -1,4 +1,14 @@
-# نقشه راه ASP.NET Core Developer
+<div align="center">
+   
+# ASP.NET Core Developer Roadmap
+
+
+![.NET 8](https://img.shields.io/badge/.NET-8.0-purple?logo=dotnet)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET-Core-blueviolet?logo=dotnet)
+![Roadmap](https://img.shields.io/badge/Learning-Roadmap-orange?logo=github)
+[![GitHub stars](https://img.shields.io/github/stars/hheydarian/AspNetCore-Developer-Roadmap?style=social)](https://github.com/hheydarian/AspNetCore-Developer-Roadmap/stargazers)
+</div>
+
 
 ## منابع
 
