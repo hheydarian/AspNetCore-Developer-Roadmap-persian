@@ -46,7 +46,7 @@
 🔹 [مطالعه چند کتاب در مورد الگوریتم‌ها و ساختمان داده‌ها](https://www.interviewbit.com/blog/data-structures-and-algorithms-books)  
 
 2️⃣ **زبان #C**  
-🔹 [آموزش #C](https://www.pluralsight.com/paths/c-12)  
+🔹 [آموزش #C](https://www.csharptutorial.net/)  
 🔹 [معرفی .NET 8](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8)  
 🔹 [ابزار خط فرمان دات‌نت (CLI)](https://docs.microsoft.com/dotnet/core/tools)  
 🔹 [قوانین StyleCop](https://github.com/DotNetAnalyzers/StyleCopAnalyzers/blob/master/DOCUMENTATION.md)  
